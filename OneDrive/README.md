@@ -56,6 +56,6 @@ The first time you use selective sync, and every time after making any changes t
 
 2. Explicit Stating Method
 
-```onedrive --synchronize --'RelativeDirectory' ```
+```onedrive --synchronize --single-directory 'RelativeDirectory' ```
 
 
