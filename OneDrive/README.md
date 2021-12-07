@@ -7,7 +7,10 @@ Guide adapts on steps provided by Logix's tutorial [How To Keep OneDrive In Sync
 ## Installation
 1. Install OneDrive by running:
 
-```sudo apt install onedrive```
+```
+sudo add-apt-repository ppa:yann1ck/onedrive
+sudo apt install onedrive
+```
 
 2. Authorize the OneDrive Free Client (fork) for Linux with your Microsoft OneDrive account through the terminal by running:
 
